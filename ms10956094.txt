@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ergon.ba",
+  "Id": "1e41c578-1c21-4214-ab94-d50abb9047bf"
+}
